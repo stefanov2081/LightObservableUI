@@ -1,0 +1,7 @@
+﻿html.progress * {
+    cursor: progress;
+}
+
+html.wait * {
+    cursor: wait;
+}
